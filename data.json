@@ -1,0 +1,58 @@
+{
+  "basics":{
+  "name": "SHWETA DUBEY",
+  "email":"dubey.intelligent@gmail.com",
+  "phone no:": "+91-8329654869"
+},
+"career":{
+  "info":" To implement my knowledge, skills ,abilities in a very good professional way and where I’m searching for a good job where it give me a good career , and it can utilize my services and it will   benefit for organization."
+
+},
+"education":[
+  {
+    "degree":"B-tech(C.S.E)",
+    "institution":"Avanthi",
+    "data":["2015-19","76%"]
+  },
+
+    {
+      "degree":"12th standard",
+      "institution":"Kendriya Vidyalaya No.2 ",
+      "data":["2014-15","84%"]
+    },
+    {
+      "degree":"10th standard",
+      "institution":"Kendriya Vidyalaya No.2",
+      "data":["2012-13","9.6CGPA"]
+    }
+
+
+],
+"skills" :[
+  {
+    "title":"Programming Language",
+    "info":["C","C++","JAVA","PYTHON","R"]
+  },
+  {
+
+      "title":"Database",
+      "info":["mySQL","MongoDB","oracle"]
+  },
+  {
+
+      "title":"web technologies",
+      "info":["javascript","HTML5","CSS3","javascript"]
+  },
+  {
+
+      "title":"libraries and framework",
+      "info":["Angular","ionic",".net","expressJs"]
+
+  },
+  {
+
+      "title":"operating system",
+      "info":["Linux","windows","Dos"]
+  }
+]
+}
